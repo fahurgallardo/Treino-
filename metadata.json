@@ -1,0 +1,6 @@
+{
+  "name": "Fahur Workout",
+  "description": "Rastreador de treino industrial do Fahur com acompanhamento de séries, cargas, anotações, temporizador com alerta sonoro e vídeos de execução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

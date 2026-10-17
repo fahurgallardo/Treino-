@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Center dumbbell bar -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M32,51h44v6h-44z" />
+
+    <!-- Bar grip texture / knurling -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M46,50h16v8h-16z" />
+
+    <!-- Left inner collar -->
+    <path
+        android:fillColor="#B0B0B0"
+        android:pathData="M33,45h4v18h-4z" />
+
+    <!-- Left main plate -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M27,38h5v32h-5z" />
+
+    <!-- Left outer plate -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M22,43h4v22h-4z" />
+
+    <!-- Right inner collar -->
+    <path
+        android:fillColor="#B0B0B0"
+        android:pathData="M71,45h4v18h-4z" />
+
+    <!-- Right main plate -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M76,38h5v32h-5z" />
+
+    <!-- Right outer plate -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M82,43h4v22h-4z" />
+
+    <!-- Stylized flame / power crest on top -->
+    <path
+        android:fillColor="#FFA726"
+        android:pathData="M54,32 C51,36 48,39 48,43 C48,46.3 50.7,49 54,49 C57.3,49 60,46.3 60,43 C60,39 57,36 54,32 Z" />
+    <path
+        android:fillColor="#FFE082"
+        android:pathData="M54,38 C52.5,40.5 51,42 51,44 C51,45.7 52.3,47 54,47 C55.7,47 57,45.7 57,44 C57,42 55.5,40.5 54,38 Z" />
+</vector>
